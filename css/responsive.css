@@ -3708,7 +3708,7 @@
 
 /*-- mobile css --*/
 
-@media (max-width: 375px) {
+@media (max-width: 390px) {
     .top_style {
         margin: 0 0 15px 0;
         background: #fff;
@@ -3735,11 +3735,7 @@
     float: left;
     margin-top: 221px;
 }
-    .heading_s1 P{
-        font-size: 15px;
-    font-weight: 300;
-
-    }
+   
     .top_style p+p {
         display: none;
     }
